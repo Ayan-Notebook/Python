@@ -20,4 +20,4 @@ gross_Salary = basic_pay + da + hra
 print("\nBasic Pay:", basic_pay)
 print("DA:", da)
 print("HRA:", hra)
-print("Gross Salary:", gross_salary)
+print("Gross Salary:", gross_Salary)
